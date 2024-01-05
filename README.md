@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning laravel, react native
+- 💬 Ask me about anything, even if I dont know we can search for the solution together
+- 📫 How to reach me: email, or linked.
+- 😄 Pronouns: he
+- ⚡ Fun fact: give me a burger and I'll do any task.
 <!--
 **ramzirich/ramzirich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
