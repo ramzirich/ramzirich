@@ -5,6 +5,7 @@
 - 📫 How to reach me: email, or linked.
 - 😄 Pronouns: he
 - ⚡ Fun fact: give me a burger and I'll do any task.
+  
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramzirich)](https://github.com/ramzirich/github-readme-stats)
 <!--
 **ramzirich/ramzirich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
