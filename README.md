@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-- 🌱 I’m currently learning laravel, react native
+- 📌 Skill : Laravel, React
+- 🌱 I’m currently learning React Native
 - 💬 Ask me about anything, even if I dont know we can search for the solution together
 - 📫 How to reach me: email, or linked.
 - 😄 Pronouns: he
